@@ -22,17 +22,7 @@
     <link rel="stylesheet" href="assets/css/fontawesome.min.css" />
     <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
     <link rel="stylesheet" href="assets/css/style.css" />
-    <style>
-        input[type="checkbox"]{
-            visibility: visible;
-            opacity: 999;
-            display: inline-block;
-            vertical-align: middle;
-            width: 25px;
-            height: 20px;
-            display: block;
-        }
-    </style>
+
 </head>
 <body>
  <!---Main Nav---->
@@ -63,7 +53,7 @@
                 </div>
             </div>
             <!------Single Card End-------->
-        <form action="" method="POST">
+        <!-- <form action="" method="POST"> -->
             <!------Single Card Start------->
             <div class="card shadow-lg mb-3" style="border:none;">
                 <div class="card-body">
@@ -95,22 +85,34 @@
             </div>
             <!------Single Card End------->
             <!------Single Card Start------->
-            <div class="card shadow-lg mb-3" style="border:none;">
+            <div class="card shadow-lg mb-3">
                 <div class="card-body">
                     <p><b>Driver Skills / Traffic Rules Adherence</b></p>
                     <hr>
                     <div class="input-group">
                         <div class="input-group-prepend" style="display:block;">
                             <div style="display:flex">
-                                <input type="radio" aria-label="Radio button for following text input">
+                                <input type="radio" class="" name="radio" value="v">
                                 <p>Very Good</p>
+                            </div>
+                            <div style="display:flex">
+                                <input type="radio" class="" name="radio" value="g">
+                                <p>Good</p>
+                            </div>
+                            <div style="display:flex">
+                                <input type="radio" class="" name="radio" value="a">
+                                <p>Average</p>
+                            </div>
+                            <div style="display:flex">
+                                <input type="radio" class="" name="radio" value="p">
+                                <p>Poor</p>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <!------Single Card End------->
-        </form>
+        <!-- </form> -->
           </div>
         </div>
     </div>
