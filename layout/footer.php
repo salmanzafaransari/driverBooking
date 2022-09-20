@@ -10,9 +10,11 @@
                   <h4 class="footer-info-title">WE ARE AVAILABLE</h4>
                   <p class="footer-text">Mon-Sat: 09.00 am to 6.30 pm</p>
                   <div class="as-social style2 mb-4">
-                    <a target="_blank" href="https://facebook.com/"><i class="fab fa-facebook-f"></i></a> <a target="_blank" href="https://twitter.com/"><i class="fab fa-twitter"></i></a>
-                    <a target="_blank" href="https://instagram.com/"><i class="fab fa-instagram"></i></a> <a target="_blank" href="https://pinterest.com/"><i class="fab fa-pinterest-p"></i></a>
-                    </a> <a target="_blank" href="https://linkedin.com/"><i class="fab fa-linkedin"></i></a>
+                    <a target="_blank" href="https://www.facebook.com/bookdriveronline"><i class="fab fa-facebook-f"></i></a>
+                    <a target="_blank" href="https://twitter.com/bookdriver11"><i class="fab fa-twitter"></i></a>
+                    <a target="_blank" href="https://www.instagram.com/bookdriveronline/"><i class="fab fa-instagram"></i></a>
+                    <a target="_blank" href="https://in.pinterest.com/bookdriveronline/"><i class="fab fa-pinterest-p"></i></a>
+                    </a> <a target="_blank" href="https://www.linkedin.com/company/bookdriveronline/"><i class="fab fa-linkedin"></i></a>
                   </div>
                   <a href="contact.php" class="as-btn style3 style-skew"><span class="btn-text">Contact Us</span></a>
                 </div>
